@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*.db
+backend/ml/model.pt
+data/
+demo_images/
+.DS_Store
